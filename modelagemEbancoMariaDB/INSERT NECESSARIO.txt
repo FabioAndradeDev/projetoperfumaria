@@ -1,0 +1,17 @@
+INSERT INTO Fornecedores (Nome, CNPJ, Telefone, Email)
+VALUES
+    ('Fornecedor A', '12345678901234', '(11) 9876-5432', 'fornecedorA@email.com'),
+    ('Fornecedor B', '98765432109876', '(22) 5555-1234', 'fornecedorB@email.com');
+
+INSERT INTO Compras (FornecedorID, DataCompra, TotalCompra)
+VALUES
+    (1, '2024-06-25 10:00:00', 1500.00),
+    (2, '2024-06-25 11:30:00', 2500.50);
+
+Insert Into Usuarios (UsuarioID, Nome, Senha, Perfil) values
+                                                          (123002, "Marcos", 12345678, 'admin'),
+							  (123003, "Marcos", 12345678, 'estoquista'),
+							   (123004, "Marcos", 12345678, 'vendedor');
+
+.
+

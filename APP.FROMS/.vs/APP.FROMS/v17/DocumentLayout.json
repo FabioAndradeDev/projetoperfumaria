@@ -1,0 +1,734 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\telas_vendedor\\vendas_vendedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|solutionrelative:telas_vendedor\\vendas_vendedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\telas_vendedor\\vendas_vendedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|solutionrelative:telas_vendedor\\vendas_vendedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\telas_estoque\\estoque_estoquista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|solutionrelative:telas_estoque\\estoque_estoquista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|c:\\users\\tecnico\\desktop\\projetojerferson\\app.froms\\dal\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|solutionrelative:dal\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\telas\\addvenda.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|solutionrelative:telas\\addvenda.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\telas\\addvenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|solutionrelative:telas\\addvenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\telas\\compras.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|solutionrelative:telas\\compras.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\telas\\addvenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|solutionrelative:telas\\addvenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\metodos\\vendarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|solutionrelative:metodos\\vendarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\telas\\registrarfunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|solutionrelative:telas\\registrarfunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\telas\\registrarfunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|solutionrelative:telas\\registrarfunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\telas\\compras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|solutionrelative:telas\\compras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\telas\\estoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|solutionrelative:telas\\estoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\metodos\\addproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|solutionrelative:metodos\\addproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\telas\\vendas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|solutionrelative:telas\\vendas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\telas\\vendas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|solutionrelative:telas\\vendas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\telas\\registrarprodutocs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|solutionrelative:telas\\registrarprodutocs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\class\\relatoriodetalhado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|solutionrelative:class\\relatoriodetalhado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\metodos\\gerarrelatoriopdf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|solutionrelative:metodos\\gerarrelatoriopdf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\metodos\\datetimeextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|solutionrelative:metodos\\datetimeextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\metodos\\addfunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|solutionrelative:metodos\\addfunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\telas\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|solutionrelative:telas\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\telas\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|solutionrelative:telas\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\telas\\remo\u00E7\u00E3odeproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|solutionrelative:telas\\remo\u00E7\u00E3odeproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\telas\\registrarprodutocs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|solutionrelative:telas\\registrarprodutocs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\class\\venda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|solutionrelative:class\\venda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\class\\relatoriofinanceirodadoscs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|solutionrelative:class\\relatoriofinanceirodadoscs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\class\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|solutionrelative:class\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\class\\itemcompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|solutionrelative:class\\itemcompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\class\\fornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|solutionrelative:class\\fornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\class\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|solutionrelative:class\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\metodos\\compraset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|solutionrelative:metodos\\compraset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\metodos\\dataset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|solutionrelative:metodos\\dataset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\metodos\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|solutionrelative:metodos\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\metodos\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|solutionrelative:metodos\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\metodos\\removeprod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|solutionrelative:metodos\\removeprod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\metodos\\setrecibo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|solutionrelative:metodos\\setrecibo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\metodos\\setvendad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|solutionrelative:metodos\\setvendad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\telas\\compras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|solutionrelative:telas\\compras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\telas\\estoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|solutionrelative:telas\\estoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\telas\\remo\u00E7\u00E3odeproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|solutionrelative:telas\\remo\u00E7\u00E3odeproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\telas_estoque\\estoque_estoquista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|solutionrelative:telas_estoque\\estoque_estoquista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C51A09B3-77B2-4CE4-9CD3-409229846ACC}|APP.FROMS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Metodos\\Login.cs",
+              "RelativeDocumentMoniker": "Metodos\\Login.cs",
+              "ToolTip": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Metodos\\Login.cs",
+              "RelativeToolTip": "Metodos\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T21:51:12.09Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Conexao.cs",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Dal\\Conexao.cs",
+              "RelativeDocumentMoniker": "Dal\\Conexao.cs",
+              "ToolTip": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Dal\\Conexao.cs",
+              "RelativeToolTip": "Dal\\Conexao.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABIAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T12:07:48.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Estoque_Estoquista.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Telas_Estoque\\Estoque_Estoquista.cs",
+              "RelativeDocumentMoniker": "Telas_Estoque\\Estoque_Estoquista.cs",
+              "ToolTip": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Telas_Estoque\\Estoque_Estoquista.cs [Design]",
+              "RelativeToolTip": "Telas_Estoque\\Estoque_Estoquista.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T13:57:44.475Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Vendas_Vendedor.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Telas_Vendedor\\Vendas_Vendedor.cs",
+              "RelativeDocumentMoniker": "Telas_Vendedor\\Vendas_Vendedor.cs",
+              "ToolTip": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Telas_Vendedor\\Vendas_Vendedor.cs [Design]",
+              "RelativeToolTip": "Telas_Vendedor\\Vendas_Vendedor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T13:59:56.82Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAEwFwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T19:59:08.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegistrarFunc.cs",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Telas\\RegistrarFunc.cs",
+              "RelativeDocumentMoniker": "Telas\\RegistrarFunc.cs",
+              "ToolTip": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Telas\\RegistrarFunc.cs",
+              "RelativeToolTip": "Telas\\RegistrarFunc.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAADwv2MAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T01:16:33.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vendas_Vendedor.cs",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Telas_Vendedor\\Vendas_Vendedor.cs",
+              "RelativeDocumentMoniker": "Telas_Vendedor\\Vendas_Vendedor.cs",
+              "ToolTip": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Telas_Vendedor\\Vendas_Vendedor.cs",
+              "RelativeToolTip": "Telas_Vendedor\\Vendas_Vendedor.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAjwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T14:20:39.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Compras.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Telas\\Compras.Designer.cs",
+              "RelativeDocumentMoniker": "Telas\\Compras.Designer.cs",
+              "ToolTip": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Telas\\Compras.Designer.cs",
+              "RelativeToolTip": "Telas\\Compras.Designer.cs",
+              "ViewState": "AQIAAK8BAAAAAAAAAADwv70BAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T20:55:03.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RegistrarFunc.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Telas\\RegistrarFunc.cs",
+              "RelativeDocumentMoniker": "Telas\\RegistrarFunc.cs",
+              "ToolTip": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Telas\\RegistrarFunc.cs [Design]",
+              "RelativeToolTip": "Telas\\RegistrarFunc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T01:11:41.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddVenda.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Telas\\AddVenda.cs",
+              "RelativeDocumentMoniker": "Telas\\AddVenda.cs",
+              "ToolTip": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Telas\\AddVenda.cs [Design]",
+              "RelativeToolTip": "Telas\\AddVenda.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T20:07:51.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddVenda.cs",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Telas\\AddVenda.cs",
+              "RelativeDocumentMoniker": "Telas\\AddVenda.cs",
+              "ToolTip": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Telas\\AddVenda.cs",
+              "RelativeToolTip": "Telas\\AddVenda.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAgwBcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T20:12:32.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddVenda.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Telas\\AddVenda.Designer.cs",
+              "RelativeDocumentMoniker": "Telas\\AddVenda.Designer.cs",
+              "ToolTip": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Telas\\AddVenda.Designer.cs",
+              "RelativeToolTip": "Telas\\AddVenda.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T20:45:28.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VendaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Metodos\\VendaRepository.cs",
+              "RelativeDocumentMoniker": "Metodos\\VendaRepository.cs",
+              "ToolTip": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Metodos\\VendaRepository.cs",
+              "RelativeToolTip": "Metodos\\VendaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T20:18:54.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Estoque.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Telas\\Estoque.cs",
+              "RelativeDocumentMoniker": "Telas\\Estoque.cs",
+              "ToolTip": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Telas\\Estoque.cs [Design]",
+              "RelativeToolTip": "Telas\\Estoque.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T17:14:14.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Compras.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Telas\\Compras.cs",
+              "RelativeDocumentMoniker": "Telas\\Compras.cs",
+              "ToolTip": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Telas\\Compras.cs [Design]",
+              "RelativeToolTip": "Telas\\Compras.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T00:24:43.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddProduto.cs",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Metodos\\AddProduto.cs",
+              "RelativeDocumentMoniker": "Metodos\\AddProduto.cs",
+              "ToolTip": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Metodos\\AddProduto.cs",
+              "RelativeToolTip": "Metodos\\AddProduto.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwBcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T23:09:08.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Vendas.cs",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Telas\\Vendas.cs",
+              "RelativeDocumentMoniker": "Telas\\Vendas.cs",
+              "ToolTip": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Telas\\Vendas.cs",
+              "RelativeToolTip": "Telas\\Vendas.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAmwG8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T13:26:49.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Vendas.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Telas\\Vendas.cs",
+              "RelativeDocumentMoniker": "Telas\\Vendas.cs",
+              "ToolTip": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Telas\\Vendas.cs [Design]",
+              "RelativeToolTip": "Telas\\Vendas.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T00:24:57.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "registrarProdutocs.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Telas\\registrarProdutocs.cs",
+              "RelativeDocumentMoniker": "Telas\\registrarProdutocs.cs",
+              "ToolTip": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Telas\\registrarProdutocs.cs [Design]",
+              "RelativeToolTip": "Telas\\registrarProdutocs.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T12:55:48.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GerarRelatorioPDF.cs",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Metodos\\GerarRelatorioPDF.cs",
+              "RelativeDocumentMoniker": "Metodos\\GerarRelatorioPDF.cs",
+              "ToolTip": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Metodos\\GerarRelatorioPDF.cs",
+              "RelativeToolTip": "Metodos\\GerarRelatorioPDF.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAADwvyMAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T02:32:27.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DateTimeExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Metodos\\DateTimeExtensions.cs",
+              "RelativeDocumentMoniker": "Metodos\\DateTimeExtensions.cs",
+              "ToolTip": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Metodos\\DateTimeExtensions.cs",
+              "RelativeToolTip": "Metodos\\DateTimeExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T12:48:06.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RelatorioDetalhado.cs",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Class\\RelatorioDetalhado.cs",
+              "RelativeDocumentMoniker": "Class\\RelatorioDetalhado.cs",
+              "ToolTip": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Class\\RelatorioDetalhado.cs",
+              "RelativeToolTip": "Class\\RelatorioDetalhado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T11:20:40.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AddFunc.cs",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Metodos\\AddFunc.cs",
+              "RelativeDocumentMoniker": "Metodos\\AddFunc.cs",
+              "ToolTip": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Metodos\\AddFunc.cs",
+              "RelativeToolTip": "Metodos\\AddFunc.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T00:59:01.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Telas\\Main.cs",
+              "RelativeDocumentMoniker": "Telas\\Main.cs",
+              "ToolTip": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Telas\\Main.cs",
+              "RelativeToolTip": "Telas\\Main.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAADgv0sAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T13:03:21.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Main.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Telas\\Main.cs",
+              "RelativeDocumentMoniker": "Telas\\Main.cs",
+              "ToolTip": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Telas\\Main.cs [Design]",
+              "RelativeToolTip": "Telas\\Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T13:01:29.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Remo\u00E7\u00E3odeProduto.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Telas\\Remo\u00E7\u00E3odeProduto.cs",
+              "RelativeDocumentMoniker": "Telas\\Remo\u00E7\u00E3odeProduto.cs",
+              "ToolTip": "C:\\Users\\lille\\Desktop\\projetojerferson\\APP.FROMS\\Telas\\Remo\u00E7\u00E3odeProduto.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\lille\\Desktop\\projetojerferson\\APP.FROMS\\Telas\\Remo\u00E7\u00E3odeProduto.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T23:10:04.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Venda.cs",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Class\\Venda.cs",
+              "RelativeDocumentMoniker": "Class\\Venda.cs",
+              "ToolTip": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Class\\Venda.cs",
+              "RelativeToolTip": "Class\\Venda.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T15:02:23.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RelatorioFinanceiroDadoscs.cs",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Class\\RelatorioFinanceiroDadoscs.cs",
+              "RelativeDocumentMoniker": "Class\\RelatorioFinanceiroDadoscs.cs",
+              "ToolTip": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Class\\RelatorioFinanceiroDadoscs.cs",
+              "RelativeToolTip": "Class\\RelatorioFinanceiroDadoscs.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAmwEcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T03:07:38.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Metodos\\Login.cs",
+              "RelativeDocumentMoniker": "Metodos\\Login.cs",
+              "ToolTip": "C:\\Users\\lille\\Desktop\\projetojerferson\\APP.FROMS\\Metodos\\Login.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\lille\\Desktop\\projetojerferson\\APP.FROMS\\Metodos\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T23:09:11.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "registrarProdutocs.cs",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Telas\\registrarProdutocs.cs",
+              "RelativeDocumentMoniker": "Telas\\registrarProdutocs.cs",
+              "ToolTip": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Telas\\registrarProdutocs.cs",
+              "RelativeToolTip": "Telas\\registrarProdutocs.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAIA5wDkAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T12:55:51.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "RemoveProd.cs",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Metodos\\RemoveProd.cs",
+              "RelativeDocumentMoniker": "Metodos\\RemoveProd.cs",
+              "ToolTip": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Metodos\\RemoveProd.cs",
+              "RelativeToolTip": "Metodos\\RemoveProd.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T15:01:18.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CompraSet.cs",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Metodos\\CompraSet.cs",
+              "RelativeDocumentMoniker": "Metodos\\CompraSet.cs",
+              "ToolTip": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Metodos\\CompraSet.cs",
+              "RelativeToolTip": "Metodos\\CompraSet.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T15:02:06.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Compra.cs",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Class\\Compra.cs",
+              "RelativeDocumentMoniker": "Class\\Compra.cs",
+              "ToolTip": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Class\\Compra.cs",
+              "RelativeToolTip": "Class\\Compra.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T15:02:17.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Fornecedor.cs",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Class\\Fornecedor.cs",
+              "RelativeDocumentMoniker": "Class\\Fornecedor.cs",
+              "ToolTip": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Class\\Fornecedor.cs",
+              "RelativeToolTip": "Class\\Fornecedor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T15:02:18.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ItemCompra.cs",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Class\\ItemCompra.cs",
+              "RelativeDocumentMoniker": "Class\\ItemCompra.cs",
+              "ToolTip": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Class\\ItemCompra.cs",
+              "RelativeToolTip": "Class\\ItemCompra.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T15:02:18.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Class\\Produto.cs",
+              "RelativeDocumentMoniker": "Class\\Produto.cs",
+              "ToolTip": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Class\\Produto.cs",
+              "RelativeToolTip": "Class\\Produto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T15:02:19.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "SetRecibo.cs",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Metodos\\SetRecibo.cs",
+              "RelativeDocumentMoniker": "Metodos\\SetRecibo.cs",
+              "ToolTip": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Metodos\\SetRecibo.cs",
+              "RelativeToolTip": "Metodos\\SetRecibo.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwDQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T15:01:06.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Estoque.cs",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Telas\\Estoque.cs",
+              "RelativeDocumentMoniker": "Telas\\Estoque.cs",
+              "ToolTip": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Telas\\Estoque.cs",
+              "RelativeToolTip": "Telas\\Estoque.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T19:27:06.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DataSet.cs",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Metodos\\DataSet.cs",
+              "RelativeDocumentMoniker": "Metodos\\DataSet.cs",
+              "ToolTip": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Metodos\\DataSet.cs",
+              "RelativeToolTip": "Metodos\\DataSet.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T13:33:30.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Compras.cs",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Telas\\Compras.cs",
+              "RelativeDocumentMoniker": "Telas\\Compras.cs",
+              "ToolTip": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Telas\\Compras.cs",
+              "RelativeToolTip": "Telas\\Compras.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T14:49:20.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "SetVendad.cs",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Metodos\\SetVendad.cs",
+              "RelativeDocumentMoniker": "Metodos\\SetVendad.cs",
+              "ToolTip": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Metodos\\SetVendad.cs",
+              "RelativeToolTip": "Metodos\\SetVendad.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwA8AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T13:33:04.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Remo\u00E7\u00E3odeProduto.cs",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Telas\\Remo\u00E7\u00E3odeProduto.cs",
+              "RelativeDocumentMoniker": "Telas\\Remo\u00E7\u00E3odeProduto.cs",
+              "ToolTip": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Telas\\Remo\u00E7\u00E3odeProduto.cs",
+              "RelativeToolTip": "Telas\\Remo\u00E7\u00E3odeProduto.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAA3wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T15:00:03.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Estoque_Estoquista.cs",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Telas_Estoque\\Estoque_Estoquista.cs",
+              "RelativeDocumentMoniker": "Telas_Estoque\\Estoque_Estoquista.cs",
+              "ToolTip": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Telas_Estoque\\Estoque_Estoquista.cs",
+              "RelativeToolTip": "Telas_Estoque\\Estoque_Estoquista.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwCIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T14:05:32.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\lille\\Desktop\\projetojerferson\\APP.FROMS\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\lille\\Desktop\\projetojerferson\\APP.FROMS\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T16:27:44.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Tecnico\\Desktop\\projetojerferson\\APP.FROMS\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T02:14:57.416Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
