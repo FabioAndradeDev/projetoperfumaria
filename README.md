@@ -1,4 +1,4 @@
-# Sistema de Gerenciamento de Empresa de Cosméticos - Grupo 4
+# Sistema de Gerenciamento de Empresa de Cosméticos 
 
 ## Sobre o Projeto
 Este projeto é um sistema desenvolvido em C# com .NET Framework, destinado a gerenciar as operações diárias de uma empresa de cosméticos. O sistema agora possui uma interface gráfica de usuário (GUI) para facilitar a interação com o usuário e permitirá o controle de estoque, vendas, compras e relatórios financeiros.
@@ -16,7 +16,7 @@ Este projeto é um sistema desenvolvido em C# com .NET Framework, destinado a ge
 - MySQL Connector/NET para conexão com o banco de dados
 
 ## Como Executar
-Instruções sobre como configurar o ambiente de desenvolvimento e executar o sistema em um ambiente Windows Forms serão fornecidas em breve.
+Utilizar dos insert iniciais e o .exe.
 
 ## Mudanças Recentes
 - Migração do projeto de .NET Core para .NET Framework com Windows Forms.
@@ -28,5 +28,4 @@ Instruções sobre como configurar o ambiente de desenvolvimento e executar o si
 - Juan Pablo Firmino Ferreira
 - Nicole
 - Daniele
-- Contato: fabio.andrade46@etec.sp.gov.br
--
+- Contato: fabiodevsa@gmail.com
